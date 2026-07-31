@@ -4,7 +4,7 @@
 
 Read this in three passes:
 
-1. **Section A** — what's changed and what to unlearn. Do this first, or you'll revise confidently in the wrong direction.
+1. **Section A** — what's changed from previous version
 2. **Sections B–F** — the five domains, in exam weighting order.
 3. **Sections G–I** — mapping table, scenarios with answers, and a final checklist.
 
