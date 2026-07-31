@@ -589,59 +589,6 @@ Cover the answers and work through them cold. The original set is reworded here,
 
 Work through this the day before. If any line makes you hesitate, that's your revision list.
 
-**Fundamentals**
 
-* \[ ] Distinguish AI, ML, deep learning, generative AI and agentic AI
-* \[ ] Match supervised / unsupervised / reinforcement / self-supervised to a scenario
-* \[ ] Choose between batch, real-time, asynchronous and serverless inference
-* \[ ] Explain when AI/ML is the *wrong* tool
-* \[ ] Decide traditional ML vs foundation model, and justify it
-* \[ ] Pick precision vs recall vs F1 for a given cost of error
-* \[ ] Name the ML pipeline stages and the AWS service at each
-
-**Generative AI**
-
-* \[ ] Define token, chunking, embedding, vector, context window
-* \[ ] Explain token-based pricing and three ways to reduce cost
-* \[ ] Distinguish prompt engineering from context engineering
-* \[ ] Explain what an agent is, and what MCP does
-* \[ ] State the Bedrock vs SageMaker AI decision rule in one sentence
-
-**Foundation models**
-
-* \[ ] Order the customisation ladder by cost
-* \[ ] Decide RAG vs fine-tuning from the symptom described
-* \[ ] Describe temperature, Top-K, Top-P and their effects
-* \[ ] List the in-scope vector stores
-* \[ ] Name the prompt-engineering risks, including prompt injection
-* \[ ] Match ROUGE, BLEU, BERTScore and LLM-as-a-judge to the right task
-
-**Responsible AI**
-
-* \[ ] Distinguish transparency from explainability
-* \[ ] Distinguish overfitting from underfitting
-* \[ ] Say what Guardrails, Clarify, Model Monitor, Model Cards and A2I each do
-* \[ ] Name three legal risks of generative AI
-
-**Security and governance**
-
-* \[ ] Apply the shared responsibility model to an AI workload
-* \[ ] Name four grounding or hallucination-detection techniques
-* \[ ] Match CloudTrail, Config, Inspector, Audit Manager, Artifact and Macie to their purpose
-* \[ ] Explain the Generative AI Security Scoping Matrix at a high level
-* \[ ] Know which security services are explicitly **out** of scope
-
-\---
-
-# Closing note
-
-The exam rewards judgement over recall. Most questions present a plausible business situation with three defensible answers and one *best* one, and the differentiator is usually a single constraint buried in the wording — "no infrastructure to manage", "must be auditable", "unpredictable traffic", "cannot leave our account", "no ML expertise on the team".
-
-So the productive drill isn't reciting what each service does. It's reading a scenario and asking: *what constraint is doing the work here?* Get that habit in place and the service naturally falls out of it.
-
-Good luck.
-
-\---
-
-*Sources: official AWS Certified AI Practitioner (AIF-C01) exam guide, version 1.1, published 30 April 2026, including its published change history and in-scope/out-of-scope service appendices.*
+-scope service appendices.*
 
